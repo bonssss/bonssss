@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonssss&label=Profile%20views&color=0e75b6&style=flat" alt="bonssss" /> </p>
 
-- 🌱 I’m currently learning **React Android application**
+- 🌱 I’m currently learning **React  MERN Stack Android application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bonssss](https://github.com/bonssss)
 
