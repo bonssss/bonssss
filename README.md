@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/bonssss)
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, C++, C#, React, Laravel, Node.js, Express, PostgreSQL**
 - 📫 How to reach me: **bons6710hos@gmail.com**
-- 📄 Know about my experiences: [My Portfolio]([https://codewithbons.vercel.app/])
+- 📄 Know about my experiences: [My Portfolio](https://codewithbons.vercel.app/)
 - ⚡ Fun fact: **I am a hard worker**
 
 <h3 align="left">Connect with me:</h3>
