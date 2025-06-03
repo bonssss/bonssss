@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bonsa Desalegn</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | QA Engineer</h3>
 
-<p align="center">
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
-</p>
+
 
 </p>
 
